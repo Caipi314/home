@@ -17,7 +17,7 @@ It is designed to simplify the process of upgrading firmware, specifically to do
 - The IP address is specifically requested with the `WA` command; the `HWDevID` is sent by the device on connection.
 
 ### Sample sucess log
-![Imgur](https://i.imgur.com/R8F0jiJ.mp4)
+![Imgur](https://i.ibb.co/Ssf8r5t/sample.gif)
 
 #### TODO
 - User will be able to set which port the server runs on
