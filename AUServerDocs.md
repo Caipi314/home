@@ -16,7 +16,8 @@ It is designed to simplify the process of upgrading firmware, specifically to do
 - These data points are found by finding devices with the same IP address and `HWDevId` as the connected device.
 - The IP address is specifically requested with the `WA` command; the `HWDevID` is sent by the device on connection.
 
-
+### Sample sucess log
+![Imgur](https://i.imgur.com/R8F0jiJ.mp4)
 
 #### TODO
 - User will be able to set which port the server runs on
