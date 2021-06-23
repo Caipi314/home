@@ -12,9 +12,9 @@ It is designed to simplify the process of upgrading firmware, specifically to do
 ![Imgur](https://i.imgur.com/mfCwJQW.png)
 
 ## Aditionally
-- For the firmware upgrade to start, the `parentId` and `\_id` of the device need to be found.
-- These data points are found by finding devices with the same IP address and HWDevId as the connected device.
-- The IP address is specifically requested with the `WA` command. The HWDevID is sent by the device on connection.
+- For the firmware upgrade to start, the `parentId` and `_id` of the device need to be found.
+- These data points are found by finding devices with the same IP address and `HWDevId` as the connected device.
+- The IP address is specifically requested with the `WA` command; the `HWDevID` is sent by the device on connection.
 
 
 
