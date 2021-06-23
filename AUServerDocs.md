@@ -4,7 +4,7 @@ It is designed to simplify the process of upgrading firmware, specifically to do
 
 
 # Expected Server Flow
-![Imgur](https://i.imgur.com/fU4Xhoi.png)
+![Imgur](https://i.imgur.com/mfCwJQW.png)
 1. On connection, the device sends a string of data that will be used to initiate an auto-upgrade.
 2. Next, a firmware is found that is marked as current and has the same useCase and HWDevID as the device.
 3. Then, if the device is not already running that firmware, the connection will be terminated and the firmware upgrade process will start.
